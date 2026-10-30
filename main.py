@@ -4,3 +4,4 @@ print("hello world")
 b=70
 print("b value is :",b)
 print(a+b)
+print(a-b)
