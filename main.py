@@ -7,3 +7,7 @@ print(a+b)
 print(a-b)
 print(a*b)
 print(a/b)
+def test():
+  print("this is the test() function")
+
+test()
