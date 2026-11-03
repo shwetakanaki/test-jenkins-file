@@ -1,13 +1,3 @@
 a=90
 print("the value of a:",a
 print("hello world")
-b=70
-print("b value is :",b)
-print(a+b)
-print(a-b)
-print(a*b)
-print(a/b)
-def test():
-  print("this is the test() function")
-
-test()
