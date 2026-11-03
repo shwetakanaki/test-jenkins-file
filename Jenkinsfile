@@ -10,7 +10,7 @@ pipeline {
         
         stage('run') {
             steps {
-            sh 'docker run -it demo:t3'
+            sh 'docker run -d demo:t3'
             }
         }
          
